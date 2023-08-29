@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<a href="https://github-readme-stats.vercel.app/api?username=EinFish&show_icons=true#gh-dark-mode-only">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=EinFish&card_width=459&line_height=24&show_icons=true&theme=github_dark_dimmed&bg_color=00000000">
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=EinFish&show_icons=true#gh-light-mode-only">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=EinFish&card_width=459&line_height=24&show_icons=true">
+</a>
+
+
 <!--
 **EinFish/EinFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
